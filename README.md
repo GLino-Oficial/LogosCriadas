@@ -1,2 +1,4 @@
-# LogosCriadas
-Logos criadas para as empresas fictícias criadas com o Intuito de praticar programação 
+# Logo das Empresas
+Aqui está algumas logos que criei para me ajudar a praticar programação. Todas são autorais e nenhuma pertence a uma empresa real
+Bom é o que acredito...
+
